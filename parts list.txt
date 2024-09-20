@@ -1,0 +1,50 @@
+Resistors:
+2.2K x 5
+4.7K x 2
+5.6K x 1
+33K x 1
+330K x 1
+1M x 2
+10K x 3
+1.5K x 1
+22K x 1
+470K x 2
+6.8K x 1
+2M x 2
+220K x 1
+15K x 1
+1.2K x 1
+100K x 1
+--------------------------------
+Capacitors
+18nF x 2
+5.6nF x 2
+2.2nF x 2
+100nF x 2
+150nF x 1
+47nF x 2
+56nF x 2
+100pF x 2
+220pF x 1
+47pF x 2
+1uF x 1 
+10uF x 1
+100uF x 1
+47uF x 1
+-------------------------------
+Diodes
+4148 x 6
+4001 x 1
+-------------------------------
+Transistors
+J201 ×4
+2N3906 ×2
+2N3904 ×1
+-------------------------------
+Integrated circuit
+TL071 x 1
+-------------------------------
+Potentiometers
+A100K ×1
+B10K ×1
+A250K dual gang ×1
